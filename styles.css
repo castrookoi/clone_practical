@@ -11,7 +11,7 @@
       rgba(0, 0, 0, 0.5) 50%,
       rgba(0, 0, 0, 0.5) 50%
     ),
-    url(/LaptopDark.jpg);
+    url(LaptopDark.jpg);
   background-position: center;
   background-size: cover;
   height: 160vh;
